@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/catalogviewer/static/css/main.8679477e.css",
+    "main.js": "/catalogviewer/static/js/main.8ce5f8a3.js",
+    "static/media/tea-light-candle.jpeg": "/catalogviewer/static/media/tea-light-candle.ec5a0036892bed8ce3e7.jpeg",
+    "static/media/green-light-candle.jpeg": "/catalogviewer/static/media/green-light-candle.e665aeaf4d00b328be3e.jpeg",
+    "static/media/white-light-candle.jpg": "/catalogviewer/static/media/white-light-candle.86a517cc7b38abc80e5e.jpg",
+    "static/media/pink-light-candle.jpeg": "/catalogviewer/static/media/pink-light-candle.3b5cbc7c873d61c9ae2f.jpeg",
+    "index.html": "/catalogviewer/index.html",
+    "main.8679477e.css.map": "/catalogviewer/static/css/main.8679477e.css.map",
+    "main.8ce5f8a3.js.map": "/catalogviewer/static/js/main.8ce5f8a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8679477e.css",
+    "static/js/main.8ce5f8a3.js"
+  ]
+}
