@@ -1,13 +1,28 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+
+@import '../node_modules/h8k-design/dist/index.css';
+
+.image-thumb {
+  border: 2px solid transparent;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.image-thumb.thumb-selected {
+  border: 2px solid #39424e;
+}
+
+.thumb {
+  background-size: contain;
+  cursor: pointer;
+  width: 100px;
+  height: 70px;
+}
+
+.main {
+ 
+  display: flex;
+  flex-direction: row;
+}
+.card {
+  margin-right: 30px;
 }
